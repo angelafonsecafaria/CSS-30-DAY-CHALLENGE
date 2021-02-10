@@ -12,7 +12,7 @@
 
 ![](day-1/day-1.gif)
 
-[My Code (https://github.com/angelafonsecafaria/CSS-30-DAY-CHALLENGE/tree/master/day-1)
+[My code](https://github.com/angelafonsecafaria/CSS-30-DAY-CHALLENGE/tree/master/day-1)
 
 Referência:
 [Create button](https://www.w3schools.com/tags/tag_button.asp)
