@@ -8,14 +8,12 @@
 
 - **Challenge day 1 - Button with Hover and Focus** <a name="id01"></a>
 
-![](dia_1/dia1.gif)
+![](day-1/day-1.gif)
 
-[Meu código](https://github.com/bfloriano/Desafio30diasCSS/tree/master/dia_1)
+[Meu código](https://github.com/angelafonsecafaria/CSS-30-DAY-CHALLENGE/tree/master/day-1)
 
 Referência:
-[Criação do hamburguer](https://willianjusten.com.br/criando-icone-menu-hamburguer-animado-com-css-puro/)
-&
-[Menu fullscreen](https://willianjusten.com.br/criando-menu-fullscreen-animado-com-css-puro/)
+[Create button](https://www.w3schools.com/tags/tag_button.asp)
 
 Aprendizados:
 
