@@ -14,10 +14,10 @@
 
 [My code](https://github.com/angelafonsecafaria/CSS-30-DAY-CHALLENGE/tree/master/day-1)
 
-Referência:
+Reference:
 [Create button](https://www.w3schools.com/tags/tag_button.asp)
 
-Aprendizados:
+Learnings:
 
 * *pseudo-elements **:hover** and **:focus***
 **
